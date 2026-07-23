@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 370 248" width="370" height="248" role="img" aria-label="ASCII banner">
+<rect width="370" height="248" rx="10" fill="#0d1117" stroke="#30363d"/>
+<circle cx="22" cy="20" r="5" fill="#ff5f56"/><circle cx="42" cy="20" r="5" fill="#ffbd2e"/><circle cx="62" cy="20" r="5" fill="#27c93f"/>
+<text x="82" y="24" style="font:600 12px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#c9d1d9">yasser@github: ~/portrait</text>
+
+<clipPath id="w0"><rect x="22" y="48.3" width="0" height="15.7">
+  <animate attributeName="width" from="0" to="312.9" begin="0.2s" dur="0.5s" fill="freeze"/>
+</rect></clipPath>
+<text x="22" y="60.0" xml:space="preserve" clip-path="url(#w0)"
+      style="font:600 10.83px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#c9d1d9">██╗   ██╗ █████╗ ███████╗███████╗███████╗██████╗</text>
+<rect x="22" y="51.3" width="6.5" height="11.7" fill="#39d353" opacity="0">
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.98;1" begin="0.2s" dur="0.5s" fill="freeze"/>
+  <animate attributeName="x" from="22" to="334.9" begin="0.2s" dur="0.5s" fill="freeze"/>
+</rect>
+<clipPath id="w1"><rect x="22" y="60.0" width="0" height="15.7">
+  <animate attributeName="width" from="0" to="319.5" begin="0.34s" dur="0.5s" fill="freeze"/>
+</rect></clipPath>
+<text x="22" y="71.7" xml:space="preserve" clip-path="url(#w1)"
+      style="font:600 10.83px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#c9d1d9">╚██╗ ██╔╝██╔══██╗██╔════╝██╔════╝██╔════╝██╔══██╗</text>
+<rect x="22" y="63.0" width="6.5" height="11.7" fill="#39d353" opacity="0">
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.98;1" begin="0.34s" dur="0.5s" fill="freeze"/>
+  <animate attributeName="x" from="22" to="341.5" begin="0.34s" dur="0.5s" fill="freeze"/>
+</rect>
+<clipPath id="w2"><rect x="22" y="71.7" width="0" height="15.7">
+  <animate attributeName="width" from="0" to="319.5" begin="0.48s" dur="0.5s" fill="freeze"/>
+</rect></clipPath>
+<text x="22" y="83.4" xml:space="preserve" clip-path="url(#w2)"
+      style="font:600 10.83px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#c9d1d9"> ╚████╔╝ ███████║███████╗███████╗█████╗  ██████╔╝</text>
+<rect x="22" y="74.7" width="6.5" height="11.7" fill="#39d353" opacity="0">
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.98;1" begin="0.48s" dur="0.5s" fill="freeze"/>
+  <animate attributeName="x" from="22" to="341.5" begin="0.48s" dur="0.5s" fill="freeze"/>
+</rect>
+<clipPath id="w3"><rect x="22" y="83.39999999999999" width="0" height="15.7">
+  <animate attributeName="width" from="0" to="319.5" begin="0.62s" dur="0.5s" fill="freeze"/>
+</rect></clipPath>
+<text x="22" y="95.1" xml:space="preserve" clip-path="url(#w3)"
+      style="font:600 10.83px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#c9d1d9">  ╚██╔╝  ██╔══██║╚════██║╚════██║██╔══╝  ██╔══██╗</text>
+<rect x="22" y="86.39999999999999" width="6.5" height="11.7" fill="#39d353" opacity="0">
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.98;1" begin="0.62s" dur="0.5s" fill="freeze"/>
+  <animate attributeName="x" from="22" to="341.5" begin="0.62s" dur="0.5s" fill="freeze"/>
+</rect>
+<clipPath id="w4"><rect x="22" y="95.1" width="0" height="15.7">
+  <animate attributeName="width" from="0" to="319.5" begin="0.76s" dur="0.5s" fill="freeze"/>
+</rect></clipPath>
+<text x="22" y="106.8" xml:space="preserve" clip-path="url(#w4)"
+      style="font:600 10.83px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#c9d1d9">   ██║   ██║  ██║███████║███████║███████╗██║  ██║</text>
+<rect x="22" y="98.1" width="6.5" height="11.7" fill="#39d353" opacity="0">
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.98;1" begin="0.76s" dur="0.5s" fill="freeze"/>
+  <animate attributeName="x" from="22" to="341.5" begin="0.76s" dur="0.5s" fill="freeze"/>
+</rect>
+<clipPath id="w5"><rect x="22" y="106.8" width="0" height="15.7">
+  <animate attributeName="width" from="0" to="319.5" begin="0.9s" dur="0.5s" fill="freeze"/>
+</rect></clipPath>
+<text x="22" y="118.5" xml:space="preserve" clip-path="url(#w5)"
+      style="font:600 10.83px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#c9d1d9">   ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝</text>
+<rect x="22" y="109.8" width="6.5" height="11.7" fill="#39d353" opacity="0">
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.98;1" begin="0.9s" dur="0.5s" fill="freeze"/>
+  <animate attributeName="x" from="22" to="341.5" begin="0.9s" dur="0.5s" fill="freeze"/>
+</rect>
+<clipPath id="w7"><rect x="22" y="130.2" width="0" height="15.7">
+  <animate attributeName="width" from="0" to="326.0" begin="1.18s" dur="0.5s" fill="freeze"/>
+</rect></clipPath>
+<text x="22" y="141.89999999999998" xml:space="preserve" clip-path="url(#w7)"
+      style="font:600 10.83px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#c9d1d9">██╗  ██╗ █████╗  ██████╗ ██╗   ██╗███████╗███████╗</text>
+<rect x="22" y="133.2" width="6.5" height="11.7" fill="#39d353" opacity="0">
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.98;1" begin="1.18s" dur="0.5s" fill="freeze"/>
+  <animate attributeName="x" from="22" to="348.0" begin="1.18s" dur="0.5s" fill="freeze"/>
+</rect>
+<clipPath id="w8"><rect x="22" y="141.9" width="0" height="15.7">
+  <animate attributeName="width" from="0" to="326.0" begin="1.32s" dur="0.5s" fill="freeze"/>
+</rect></clipPath>
+<text x="22" y="153.6" xml:space="preserve" clip-path="url(#w8)"
+      style="font:600 10.83px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#c9d1d9">██║  ██║██╔══██╗██╔═══██╗██║   ██║██╔════╝██╔════╝</text>
+<rect x="22" y="144.9" width="6.5" height="11.7" fill="#39d353" opacity="0">
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.98;1" begin="1.32s" dur="0.5s" fill="freeze"/>
+  <animate attributeName="x" from="22" to="348.0" begin="1.32s" dur="0.5s" fill="freeze"/>
+</rect>
+<clipPath id="w9"><rect x="22" y="153.60000000000002" width="0" height="15.7">
+  <animate attributeName="width" from="0" to="326.0" begin="1.46s" dur="0.5s" fill="freeze"/>
+</rect></clipPath>
+<text x="22" y="165.3" xml:space="preserve" clip-path="url(#w9)"
+      style="font:600 10.83px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#c9d1d9">███████║███████║██║   ██║██║   ██║█████╗  ███████╗</text>
+<rect x="22" y="156.60000000000002" width="6.5" height="11.7" fill="#39d353" opacity="0">
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.98;1" begin="1.46s" dur="0.5s" fill="freeze"/>
+  <animate attributeName="x" from="22" to="348.0" begin="1.46s" dur="0.5s" fill="freeze"/>
+</rect>
+<clipPath id="w10"><rect x="22" y="165.3" width="0" height="15.7">
+  <animate attributeName="width" from="0" to="326.0" begin="1.6s" dur="0.5s" fill="freeze"/>
+</rect></clipPath>
+<text x="22" y="177.0" xml:space="preserve" clip-path="url(#w10)"
+      style="font:600 10.83px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#c9d1d9">██╔══██║██╔══██║██║   ██║██║   ██║██╔══╝  ╚════██║</text>
+<rect x="22" y="168.3" width="6.5" height="11.7" fill="#39d353" opacity="0">
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.98;1" begin="1.6s" dur="0.5s" fill="freeze"/>
+  <animate attributeName="x" from="22" to="348.0" begin="1.6s" dur="0.5s" fill="freeze"/>
+</rect>
+<clipPath id="w11"><rect x="22" y="177.0" width="0" height="15.7">
+  <animate attributeName="width" from="0" to="326.0" begin="1.74s" dur="0.5s" fill="freeze"/>
+</rect></clipPath>
+<text x="22" y="188.7" xml:space="preserve" clip-path="url(#w11)"
+      style="font:600 10.83px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#c9d1d9">██║  ██║██║  ██║╚██████╔╝╚██████╔╝███████╗███████║</text>
+<rect x="22" y="180.0" width="6.5" height="11.7" fill="#39d353" opacity="0">
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.98;1" begin="1.74s" dur="0.5s" fill="freeze"/>
+  <animate attributeName="x" from="22" to="348.0" begin="1.74s" dur="0.5s" fill="freeze"/>
+</rect>
+<clipPath id="w12"><rect x="22" y="188.7" width="0" height="15.7">
+  <animate attributeName="width" from="0" to="326.0" begin="1.88s" dur="0.5s" fill="freeze"/>
+</rect></clipPath>
+<text x="22" y="200.39999999999998" xml:space="preserve" clip-path="url(#w12)"
+      style="font:600 10.83px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#c9d1d9">╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚══════╝╚══════╝</text>
+<rect x="22" y="191.7" width="6.5" height="11.7" fill="#39d353" opacity="0">
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.98;1" begin="1.88s" dur="0.5s" fill="freeze"/>
+  <animate attributeName="x" from="22" to="348.0" begin="1.88s" dur="0.5s" fill="freeze"/>
+</rect>
+<text x="22" y="228.1" style="font:400 11px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#8b949e" opacity="0">DZ · full-stack &amp; mobile<animate attributeName="opacity" from="0" to="1" begin="2.5200000000000005s" dur="0.4s" fill="freeze"/></text>
+</svg>
