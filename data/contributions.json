@@ -1,9 +1,9 @@
 {
   "user": "yasxer",
-  "fetched_at": "2026-08-20T07:09:25.489615Z",
-  "total": 163,
-  "current_streak": 28,
-  "longest_streak": 28,
+  "fetched_at": "2026-08-21T07:10:30.499842Z",
+  "total": 164,
+  "current_streak": 29,
+  "longest_streak": 29,
   "best_day": {
     "date": "2026-07-13",
     "count": 9,
@@ -1852,6 +1852,11 @@
     },
     {
       "date": "2026-08-20",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-08-21",
       "count": 0,
       "level": 0
     }
