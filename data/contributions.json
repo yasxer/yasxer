@@ -1,12 +1,12 @@
 {
   "user": "yasxer",
-  "fetched_at": "2026-09-02T11:25:54.198961Z",
-  "total": 177,
-  "current_streak": 41,
-  "longest_streak": 41,
+  "fetched_at": "2026-09-03T11:22:10.607313Z",
+  "total": 209,
+  "current_streak": 43,
+  "longest_streak": 43,
   "best_day": {
     "date": "2026-07-13",
-    "count": 9,
+    "count": 17,
     "level": 4
   },
   "days": [
@@ -1592,13 +1592,13 @@
     },
     {
       "date": "2026-07-13",
-      "count": 9,
+      "count": 17,
       "level": 4
     },
     {
       "date": "2026-07-14",
-      "count": 2,
-      "level": 1
+      "count": 3,
+      "level": 2
     },
     {
       "date": "2026-07-15",
@@ -1607,7 +1607,7 @@
     },
     {
       "date": "2026-07-16",
-      "count": 1,
+      "count": 2,
       "level": 1
     },
     {
@@ -1682,18 +1682,18 @@
     },
     {
       "date": "2026-07-31",
-      "count": 2,
-      "level": 1
-    },
-    {
-      "date": "2026-08-01",
-      "count": 4,
+      "count": 3,
       "level": 2
     },
     {
-      "date": "2026-08-02",
-      "count": 6,
+      "date": "2026-08-01",
+      "count": 5,
       "level": 3
+    },
+    {
+      "date": "2026-08-02",
+      "count": 11,
+      "level": 4
     },
     {
       "date": "2026-08-03",
@@ -1712,8 +1712,8 @@
     },
     {
       "date": "2026-08-06",
-      "count": 2,
-      "level": 1
+      "count": 3,
+      "level": 2
     },
     {
       "date": "2026-08-07",
@@ -1792,8 +1792,8 @@
     },
     {
       "date": "2026-08-22",
-      "count": 2,
-      "level": 1
+      "count": 3,
+      "level": 2
     },
     {
       "date": "2026-08-23",
@@ -1847,8 +1847,13 @@
     },
     {
       "date": "2026-09-02",
-      "count": 0,
-      "level": 0
+      "count": 9,
+      "level": 4
+    },
+    {
+      "date": "2026-09-03",
+      "count": 4,
+      "level": 2
     }
   ]
 }
