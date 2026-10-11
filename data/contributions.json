@@ -1,7 +1,7 @@
 {
   "user": "yasxer",
-  "fetched_at": "2026-10-10T12:40:27.250066Z",
-  "total": 245,
+  "fetched_at": "2026-10-11T13:00:44.822974Z",
+  "total": 246,
   "current_streak": 36,
   "longest_streak": 43,
   "best_day": {
@@ -10,41 +10,6 @@
     "level": 4
   },
   "days": [
-    {
-      "date": "2025-10-05",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-06",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-07",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-08",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-09",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-10",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-11",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-10-12",
       "count": 0,
@@ -1862,8 +1827,13 @@
     },
     {
       "date": "2026-10-10",
-      "count": 1,
+      "count": 2,
       "level": 1
+    },
+    {
+      "date": "2026-10-11",
+      "count": 0,
+      "level": 0
     }
   ]
 }
